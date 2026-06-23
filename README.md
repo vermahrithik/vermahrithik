@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+,+I'm+Hrithik+Verma+👋;Flutter+Developer+·+Indore+,+India+·+Open+to+Work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=gilroy&weight=100&pause=100&color=6FD0F9&multiline=true&random=true&width=435&height=60&lines=Hey%2C+I'm+Hrithik+Verma+%F0%9F%91%8B;Flutter+Developer+%C2%B7+Indore%2C+India+%C2%B7+Open+to+Work)](https://git.io/typing-svg)
 <h1 align="left">Hey, I'm Hrithik Verma 👋</h1>
 <p align="left">
   <strong>Flutter Developer</strong> · Indore, India · Open to Work
