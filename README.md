@@ -107,7 +107,7 @@ class HrithikVerma extends FlutterDeveloper {
     <td width="33%" valign="top">
       <h3>📓 Notes App</h3>
       <p>Flutter · Riverpod · SQFlite · Offline-first</p>
-      <p>Fully offline notes app with persistent local database supporting ~100 entries having CRUD operations and conflict resolution section for syncing between offline and online data happening after updating it on app.</p>
+      <p>Fully offline notes app with persistent local database , conflict resolution section for syncing between offline and online data supporting ~100 entries</p>
       <a href="https://github.com/vermahrithik/lowkey"><img src="https://img.shields.io/badge/View_Code-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="33%" valign="top">
