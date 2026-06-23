@@ -102,7 +102,7 @@ class HrithikVerma extends FlutterDeveloper {
       <h3>🎬 MoviesApp</h3>
       <p>TMDB API · Firebase Auth · GetX · Dio</p>
       <p>Movie discovery with paginated API fetching, infinite scroll, and secure Firebase login.</p>
-      <a href="https://github.com/vermahrithik/movies-app"><img src="https://img.shields.io/badge/View_Code-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/vermahrithik/moviesapp"><img src="https://img.shields.io/badge/View_Code-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="33%" valign="top">
       <h3>📓 Notes App</h3>
