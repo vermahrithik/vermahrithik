@@ -1,5 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <h1 align="left">Hey, I'm Hrithik Verma 👋</h1>
-
 <p align="left">
   <strong>Flutter Developer</strong> · Indore, India · Open to Work
 </p>
