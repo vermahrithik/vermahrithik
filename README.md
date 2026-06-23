@@ -50,37 +50,37 @@ class HrithikVerma extends FlutterDeveloper {
         <img src="https://img.shields.io/badge/FCM-FF6F00?style=flat-square&logo=firebase&logoColor=white"/>
         <img src="https://img.shields.io/badge/MVC-4F46E5?style=flat-square"/>
       </p>
-      <p>✅ 12 of 30 screens &nbsp;·&nbsp; ✅ Push notifications &nbsp;·&nbsp; ✅ OTP auth</p>
+      <p>✅ 14 of 20 screens &nbsp;·&nbsp; ✅ Push notifications &nbsp;·&nbsp; ✅ OTP auth</p>
     </td>
     <td width="50%" valign="top">
       <h3>💼 B2B Networking App</h3>
       <p><strong>Fovty Solutions · 2025</strong></p>
-      <p>Connecting investors, startups, and entrepreneurs via pitch reels and profile feeds — <strong>4 modules, Figma to prod</strong>.</p>
+      <p>Connecting investors, startups, and entrepreneurs via pitch reels and profile , Content feeds — <strong>4 modules, Figma to prod</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/MVC-4F46E5?style=flat-square"/>
         <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square"/>
       </p>
-      <p>✅ Profile · Reels · Connect Feed · Investor Match</p>
+      <p>✅ Profile · Reels · User Feed · Ecommerce Shop · Investor Match</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🏛️ Govt Asset Management App</h3>
       <p><strong>MPSEDC · 2023–24</strong></p>
-      <p>Internal asset management system for a 500+ employee government organisation — OTP login, asset forms, image upload.</p>
+      <p>Government asset management system for a 500+ employee government organisation — OTP login, asset forms, image upload.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/BLoC-8B5CF6?style=flat-square"/>
         <img src="https://img.shields.io/badge/SQFlite-FF7043?style=flat-square"/>
         <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square"/>
       </p>
-      <p>✅ 3 auth flows &nbsp;·&nbsp; ✅ 10 form screens &nbsp;·&nbsp; ✅ 8+ Figma prototypes</p>
+      <p>✅ 2 auth flows &nbsp;·&nbsp; ✅ 10 form screens &nbsp;·&nbsp; ✅ 8+ Figma prototypes</p>
     </td>
     <td width="50%" valign="top">
       <h3>📱 Client Mobile Apps</h3>
       <p><strong>HackerKernel · 2024</strong></p>
-      <p>20+ screens across 3 client projects — GetX state management, GoRouter navigation, REST APIs via Dio.</p>
+      <p>30+ screens across 3 client projects — GetX state management, GoRouter navigation, REST APIs via Dio.</p>
       <p>
         <img src="https://img.shields.io/badge/GetX-9C27B0?style=flat-square"/>
         <img src="https://img.shields.io/badge/Dio-00ACC1?style=flat-square"/>
@@ -112,8 +112,8 @@ class HrithikVerma extends FlutterDeveloper {
     </td>
     <td width="33%" valign="top">
       <h3>⚙️ GetX State Demo</h3>
-      <p>Flutter · GetX · Obx · update() · GetBuilder</p>
-      <p>Comparison of all 3 GetX reactivity patterns in one place — built as a reference.</p>
+      <p>Flutter · GetX · Obx · GetBuilder</p>
+      <p>Comparison of both GetX reactivity patterns in one place — built as a reference.</p>
       <a href="https://github.com/vermahrithik"><img src="https://img.shields.io/badge/View_Code-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
