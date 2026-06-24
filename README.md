@@ -50,37 +50,51 @@ class HrithikVerma extends FlutterDeveloper {
         <img src="https://img.shields.io/badge/FCM-FF6F00?style=flat-square&logo=firebase&logoColor=white"/>
         <img src="https://img.shields.io/badge/MVC-4F46E5?style=flat-square"/>
       </p>
-      <p>✅ 14 of 20 screens &nbsp;·&nbsp; ✅ Push notifications &nbsp;·&nbsp; ✅ OTP auth</p>
+      <p>✅ 12 of 30 screens &nbsp;·&nbsp; ✅ Push notifications &nbsp;·&nbsp; ✅ OTP auth</p>
     </td>
     <td width="50%" valign="top">
       <h3>💼 B2B Networking App</h3>
       <p><strong>Fovty Solutions · 2025</strong></p>
-      <p>Connecting investors, startups, and entrepreneurs via pitch reels and profile , Content feeds — <strong>4 modules, Figma to prod</strong>.</p>
+      <p>Connecting investors, startups, and entrepreneurs via pitch reels and profile feeds — <strong>4 modules, Figma to prod</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MVC-4F46E5?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
         <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square"/>
       </p>
-      <p>✅ Profile · Reels · User Feed · Ecommerce Shop · Investor Match</p>
+      <p>✅ Profile · Reels · Connect Feed · Investor Match</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧺 Laundry Delivery App</h3>
+      <p><strong>Fovty Solutions · 2025 — User + Driver apps</strong></p>
+      <p>Inherited and extended a 2-sided delivery app as sole Flutter developer — User app for order placement and Driver app for local delivery in Indore.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Deep_Linking-4F46E5?style=flat-square"/>
+        <img src="https://img.shields.io/badge/iOS_Permissions-000000?style=flat-square&logo=apple&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
+      </p>
+      <p>✅ iOS + Android camera & location permissions &nbsp;·&nbsp; ✅ Deep linking to Google Maps with live coordinates &nbsp;·&nbsp; ✅ Auth + order + delivery tracking flows</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🏛️ Govt Asset Management App</h3>
       <p><strong>MPSEDC · 2023–24</strong></p>
-      <p>Government asset management system for a 500+ employee government organisation — OTP login, asset forms, image upload.</p>
+      <p>Internal asset management system for a 500+ employee government organisation — OTP login, asset forms, image upload.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/BLoC-8B5CF6?style=flat-square"/>
         <img src="https://img.shields.io/badge/SQFlite-FF7043?style=flat-square"/>
         <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square"/>
       </p>
-      <p>✅ 2 auth flows &nbsp;·&nbsp; ✅ 10 form screens &nbsp;·&nbsp; ✅ 8+ Figma prototypes</p>
+      <p>✅ 3 auth flows &nbsp;·&nbsp; ✅ 10 form screens &nbsp;·&nbsp; ✅ 8+ Figma prototypes</p>
     </td>
     <td width="50%" valign="top">
       <h3>📱 Client Mobile Apps</h3>
       <p><strong>HackerKernel · 2024</strong></p>
-      <p>30+ screens across 3 client projects — GetX state management, GoRouter navigation, REST APIs via Dio.</p>
+      <p>20+ screens across 3 client projects — GetX state management, GoRouter navigation, REST APIs via Dio.</p>
       <p>
         <img src="https://img.shields.io/badge/GetX-9C27B0?style=flat-square"/>
         <img src="https://img.shields.io/badge/Dio-00ACC1?style=flat-square"/>
@@ -107,15 +121,14 @@ class HrithikVerma extends FlutterDeveloper {
     <td width="33%" valign="top">
       <h3>📓 Notes App</h3>
       <p>Flutter · Riverpod · SQFlite · Offline-first</p>
-      <p>Fully offline notes app with persistent local database , conflict resolution section for syncing between offline and online data supporting ~100 entries</p>
+      <p>Fully offline notes app with persistent local database supporting 1,000+ entries.</p>
       <a href="https://github.com/vermahrithik/lowkey"><img src="https://img.shields.io/badge/View_Code-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="33%" valign="top">
       <h3>⚙️ GetX State Demo</h3>
-      <p>Flutter · GetX · Obx · GetBuilder</p>
-      <p>Comparison of both GetX reactivity patterns in one place — built as a reference.</p>
-      <a href="https://github.com/vermahrithik/GetxTodoWithObs"><img src="https://img.shields.io/badge/View_Code-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
-      <a href="https://github.com/vermahrithik/GetBuilderTodo"><img src="https://img.shields.io/badge/View_Code-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
+      <p>Flutter · GetX · Obx · update() · GetBuilder</p>
+      <p>Comparison of all 3 GetX reactivity patterns in one place — built as a reference.</p>
+      <a href="https://github.com/vermahrithik"><img src="https://img.shields.io/badge/View_Code-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
