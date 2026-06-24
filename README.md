@@ -3,8 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>Flutter Developer</h3>
-  <h3>Clean Architecture &nbsp;·&nbsp; BLoC · Riverpod · Firebase</h3>
+  <h3>Flutter Developer &nbsp;·&nbsp; Clean Architecture &nbsp;·&nbsp; BLoC · Riverpod · Firebase</h3>
   <p>
     <a href="https://linkedin.com/in/vermahrithik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
     <a href="https://leetcode.com/vermahrithik"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>&nbsp;
