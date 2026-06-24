@@ -40,7 +40,7 @@ class HrithikVerma extends FlutterDeveloper {
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>🕉️ Religious Services App</h3>
       <p><strong>Fovty Solutions · 2025</strong></p>
       <p>Darshan bookings, pooja scheduling, rashi insights, devotional content — live with <strong>1,000+ active users</strong>.</p>
@@ -52,7 +52,7 @@ class HrithikVerma extends FlutterDeveloper {
       </p>
       <p>✅ 12 of 30 screens &nbsp;·&nbsp; ✅ Push notifications &nbsp;·&nbsp; ✅ OTP auth</p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>💼 B2B Networking App</h3>
       <p><strong>Fovty Solutions · 2025</strong></p>
       <p>Connecting investors, startups, and entrepreneurs via pitch reels and profile feeds — <strong>4 modules, Figma to prod</strong>.</p>
@@ -65,7 +65,7 @@ class HrithikVerma extends FlutterDeveloper {
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>🧺 Laundry Delivery App</h3>
       <p><strong>Fovty Solutions · 2025 — User + Driver apps</strong></p>
       <p>Inherited and extended a 2-sided delivery app as sole Flutter developer — User app for order placement and Driver app for local delivery in Indore.</p>
