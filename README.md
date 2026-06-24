@@ -57,6 +57,9 @@ class HrithikVerma extends FlutterDeveloper {
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
         <img src="https://img.shields.io/badge/MVC-4F46E5?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Dio-00ACC1?style=flat-square"/>
+        <img src="https://img.shields.io/badge/GoRouter-4F46E5?style=flat-square"/>
+        <img src="https://img.shields.io/badge/SQFlite-FF7043?style=flat-square"/>
         <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square"/>
       </p>
       <p>✅ Profile · Reels · Connect Feed · Investor Match</p>
