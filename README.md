@@ -12,7 +12,6 @@
   </p>
 </div>
 
----
 
 ## 👨‍💻 &nbsp;Who am I
 
@@ -34,7 +33,6 @@ class HrithikVerma extends FlutterDeveloper {
 }
 ```
 
----
 
 ## 🏢 &nbsp;Shipped in production
 
@@ -55,9 +53,10 @@ class HrithikVerma extends FlutterDeveloper {
     <td width="50%" valign="top">
       <h3>💼 B2B Networking App</h3>
       <p><strong>Fovty Solutions · 2025</strong></p>
-      <p>Connecting investors, startups, and entrepreneurs via pitch reels and profile feeds — <strong>4 modules, Figma to prod</strong>.</p>
+      <p>Connecting investors, startups, and entrepreneurs via pitch reels and content feeds — <strong>4 modules, Figma to prod</strong>.</p>
       <p>
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MVC-4F46E5?style=flat-square"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
         <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square"/>
       </p>
@@ -106,7 +105,6 @@ class HrithikVerma extends FlutterDeveloper {
   </tr>
 </table>
 
----
 
 ## 🔨 &nbsp;Personal projects
 
@@ -121,19 +119,19 @@ class HrithikVerma extends FlutterDeveloper {
     <td width="33%" valign="top">
       <h3>📓 Notes App</h3>
       <p>Flutter · Riverpod · SQFlite · Offline-first</p>
-      <p>Fully offline notes app with persistent local database supporting 1,000+ entries.</p>
+      <p>Fully offline notes app with persistent local database supporting ~100 entries having CRUD operations and conflict resolution section for syncing between offline & online data changes happening after updating it on app.</p>
       <a href="https://github.com/vermahrithik/lowkey"><img src="https://img.shields.io/badge/View_Code-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="33%" valign="top">
       <h3>⚙️ GetX State Demo</h3>
-      <p>Flutter · GetX · Obx · update() · GetBuilder</p>
-      <p>Comparison of all 3 GetX reactivity patterns in one place — built as a reference.</p>
-      <a href="https://github.com/vermahrithik"><img src="https://img.shields.io/badge/View_Code-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
+      <p>Flutter · GetX · Obx · GetBuilder</p>
+      <p>Comparison of both GetX reactivity patterns in one place — built as a reference.</p>
+      <a href="https://github.com/vermahrithik/GetxTodoWithObs"><img src="https://img.shields.io/badge/View_Code-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/vermahrithik/GetBuilderTodo"><img src="https://img.shields.io/badge/View_Code-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
 
----
 
 ## 🛠️ &nbsp;Tech stack
 
@@ -162,7 +160,6 @@ class HrithikVerma extends FlutterDeveloper {
 
 </div>
 
----
 
 ## 📊 &nbsp;GitHub stats
 
@@ -176,7 +173,6 @@ class HrithikVerma extends FlutterDeveloper {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vermahrithik&theme=tokyonight&hide_border=true&background=0D1117&stroke=4F46E5&ring=06B6D4&fire=F59E0B&currStreakLabel=94a3b8" width="60%"/>
 </div>
 
----
 
 ## 🏆 &nbsp;A few things worth knowing
 
@@ -188,7 +184,6 @@ class HrithikVerma extends FlutterDeveloper {
 💡  I write code the next developer can read — because I've been that next developer.
 ```
 
----
 
 ## 💬 &nbsp;Let's connect
 
