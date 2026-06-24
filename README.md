@@ -100,6 +100,7 @@ class HrithikVerma extends FlutterDeveloper {
         <img src="https://img.shields.io/badge/GetX-9C27B0?style=flat-square"/>
         <img src="https://img.shields.io/badge/Dio-00ACC1?style=flat-square"/>
         <img src="https://img.shields.io/badge/GoRouter-4F46E5?style=flat-square"/>
+        <img src="https://img.shields.io/badge/MVC-4F46E5?style=flat-square"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       </p>
       <p>✅ 3 client projects &nbsp;·&nbsp; ✅ Multi-device responsive &nbsp;·&nbsp; ✅ MVC pattern</p>
